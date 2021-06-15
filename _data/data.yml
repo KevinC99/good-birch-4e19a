@@ -76,12 +76,7 @@ experiences:
       snacks de entremés
 projects:
   title: Projects
-  assignments:
-    - title: Delta
-      link: '#'
-      tagline: >-
-        A responsive Bootstrap one page theme designed to help app developers
-        promote their mobile apps
+  assignments: []
   intro: >-
     Algunos proyectos desarrollados telematicamente con supervision de asesores
     en diseño resultado de mis aprendizajes de forma virtual
