@@ -77,11 +77,6 @@ experiences:
 projects:
   title: Projects
   assignments:
-    - title: Velocity
-      link: '#hook'
-      tagline: >-
-        A responsive website template designed to help startups promote, market
-        and sell their products.
     - title: DevStudio
       link: '#'
       tagline: >-
