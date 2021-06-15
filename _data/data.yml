@@ -1,6 +1,6 @@
 sidebar:
   about: true
-  education: true
+  education: false
   name: Kevin Cordova
   tagline: Junior en Atencion al cliente y Desarrollo Web
   avatar: profile.png
