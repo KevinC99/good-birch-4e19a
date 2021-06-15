@@ -13,8 +13,7 @@ sidebar:
   codewars: null
   goodreads: null
   languages:
-    - idiom: sE
-      level: Native
+    - level: Native
     - idiom: Spanish
       level: Professional
   interests:
