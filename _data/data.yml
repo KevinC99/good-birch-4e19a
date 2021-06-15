@@ -105,8 +105,7 @@ skills:
       level: 98%
     - name: Sketch & Photoshop
       level: 90%
-    - name: lorem-ipsum
-      level: lorem-ipsum
+    - level: lorem-ipsum
 footer: >
   Designed with <i class="fas fa-heart"></i> by <a
   href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying
