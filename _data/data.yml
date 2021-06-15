@@ -83,7 +83,9 @@ projects:
         Proyecto realizado autónomamente como prueba de habilidades de diseño y
         reconocimiento de entorno de Google 
     - title: Hyperblog
-      tagline: Proyecto realizado  como cumplimiento de reto propuesto en curso
+      tagline: >-
+        Proyecto realizado  como cumplimiento de reto propuesto en curso de
+        desarrollo web
       link: 'https://github.com/KevinC99/Hyper-Blog'
   intro: >-
     Algunos proyectos desarrollados telematicamente con supervision de asesores
