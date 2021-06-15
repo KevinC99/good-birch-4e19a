@@ -76,7 +76,10 @@ experiences:
       snacks de entremés
 projects:
   title: Projects
-  assignments: []
+  assignments:
+    - title: lorem-ipsum
+      link: lorem-ipsum
+      tagline: lorem-ipsum
   intro: >-
     Algunos proyectos desarrollados telematicamente con supervision de asesores
     en diseño resultado de mis aprendizajes de forma virtual
