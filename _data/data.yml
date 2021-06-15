@@ -84,6 +84,7 @@ projects:
         reconocimiento de entorno de google 
     - title: Hyperblog
       tagline: lorem-ipsum
+      link: 'https://github.com/KevinC99/Hyper-Blog'
   intro: >-
     Algunos proyectos desarrollados telematicamente con supervision de asesores
     en diseño resultado de mis aprendizajes de forma virtual
