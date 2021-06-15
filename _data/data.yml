@@ -77,8 +77,7 @@ experiences:
 projects:
   title: Projects
   assignments:
-    - title: lorem-ipsum
-      link: lorem-ipsum
+    - link: lorem-ipsum
       tagline: lorem-ipsum
   intro: >-
     Algunos proyectos desarrollados telematicamente con supervision de asesores
