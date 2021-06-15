@@ -77,8 +77,7 @@ experiences:
 projects:
   title: Projects
   assignments:
-    - tagline: lorem-ipsum
-      title: Copia de diseño de Google
+    - title: Copia de diseño de Google
       link: 'https://github.com/KevinC99/Copia-de-Googgle'
   intro: >-
     Algunos proyectos desarrollados telematicamente con supervision de asesores
