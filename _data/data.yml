@@ -53,6 +53,12 @@ education:
         - Bullet point
     degree: Administracion de Sistemas
     university: Colegio Republica del Peru
+  - degree: lorem-ipsum
+    university: lorem-ipsum
+    time: lorem-ipsum
+    details: >-
+      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
+      tempor incididunt ut labore et dolore magna aliqua.
 experiences:
   - role: Ayudante de Mesero
     time: 2019-2020
